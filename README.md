@@ -1,2 +1,2 @@
 # tic-tae-toe
-Tic Tae Toe using Python
+This is a basic tic tae toe program built in python.
